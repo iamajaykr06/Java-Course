@@ -1,4 +1,4 @@
-package GettingStarted;
+package module_3_getting_started;
 
 public class FirstProgram {
     public static void main(String[] args) {
