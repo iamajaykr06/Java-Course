@@ -94,9 +94,11 @@ Compile: `javac FileName.java`
 Run: `java ClassName`
 
 Example:
-`javac PrimeCheck.java``
-``java PrimeCheck
-``
+
+`javac PrimeCheck.java`
+
+`java PrimeCheck`
+
 ---
 
 ## Purpose of This Repository
